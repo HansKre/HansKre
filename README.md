@@ -10,9 +10,17 @@ And warm ✨ _welcome_ ✨ to my GitHub profile.
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=HansKre&layout=compact)
 
+## Scores & Badges
+
+![Scores & Badges](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=HansKre&labels=true)
+
 ## CodersRank Activity
 
-![CodersRank Activity](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=HansKre)
+![CodersRank Activity](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=HansKre&labels=true)
+
+## Skills Chart
+
+![Skills Chart Widget](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=HansKre&labels=true)
 
 ## Some Noteable Repo's
 
