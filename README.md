@@ -2,14 +2,9 @@
 
 And warm ✨ _welcome_ ✨ to my GitHub profile.
 
-## GitHub Stats Card
+![Github stats](https://github-readme-stats.vercel.app/api?username=HansKre&theme=gotham&show_icons=true&count_private=true)![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=HansKre&layout=compact)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=HansKre&theme=gotham&show_icons=true&count_private=true)
-
-
-![Scores & Badges](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=HansKre&labels=true) ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=HansKre&layout=compact)
-
-## Skills Chart
+![Scores & Badges](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=HansKre&labels=true)
 
 ![Skills Chart Widget](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=HansKre&labels=true)
 
