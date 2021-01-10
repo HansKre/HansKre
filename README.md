@@ -12,7 +12,7 @@ And warm ✨ _welcome_ ✨ to my GitHub profile.
 
 ## Some Noteable Repo's
 
-[![React UI Showcase](https://github-readme-stats.vercel.app/api/pin/?username=HansKre&repo=repo-name&show_owner=true)](https://github.com/HansKre/personal-portfolio)
+[![React UI Showcase](https://github-readme-stats.vercel.app/api/pin/?username=HansKre&repo=personal-portfolio&show_owner=true)](https://github.com/HansKre/personal-portfolio)
 
 More coming soon...
 
