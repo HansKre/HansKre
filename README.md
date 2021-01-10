@@ -6,12 +6,8 @@ And warm ✨ _welcome_ ✨ to my GitHub profile.
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=HansKre&theme=gotham&show_icons=true&count_private=true)
 
-## Top Language Card
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=HansKre&layout=compact)
-
-## Scores & Badges
-
 ![Scores & Badges](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=HansKre&labels=true)
 
 ## Skills Chart
