@@ -14,10 +14,6 @@ And warm ✨ _welcome_ ✨ to my GitHub profile.
 
 ![Scores & Badges](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=HansKre&labels=true)
 
-## CodersRank Activity
-
-![CodersRank Activity](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=HansKre&labels=true)
-
 ## Skills Chart
 
 ![Skills Chart Widget](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=HansKre&labels=true)
@@ -32,7 +28,7 @@ More coming soon...
 
 > [This wonderful tutorial which explains how to create your profile page](https://medium.com/better-programming/3-steps-to-improve-your-github-overview-page-950c64d4d465)
 
-> [Vladimir who inspired me to creade a profile page on GitHub and CodersRank in the first place] (https://github.com/nolimits4web)
+> [Vladimir who inspired me to creade a profile page on GitHub and CodersRank in the first place](https://github.com/nolimits4web)
 
 
 ### Interesting Reads
