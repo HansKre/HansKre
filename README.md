@@ -20,6 +20,8 @@ This is the repo of my about-me page. It showcases my skills and projects. You c
 
 ### ts-type-safe
 
+Usefuly utility functions and types for a more type-safe TypeScript.
+
 [![ts-type-safe](https://github-readme-stats.vercel.app/api/pin/?username=HansKre&repo=ts-type-safe&show_owner=true)](https://www.npmjs.com/package/ts-type-safe)
 
 ### Markdown-Execute (VS Code Extension)
