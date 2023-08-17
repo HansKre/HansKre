@@ -18,6 +18,10 @@ This is the repo of my about-me page. It showcases my skills and projects. You c
 
 [![My About Me Page](https://github-readme-stats.vercel.app/api/pin/?username=HansKre&repo=about-hanskrebs-v3&show_owner=true)](https://github.com/HansKre/about-hanskrebs-v3)
 
+### ts-type-safe
+
+[![ts-type-safe](https://github-readme-stats.vercel.app/api/pin/?username=HansKre&repo=ts-type-safe&show_owner=true)](https://www.npmjs.com/package/ts-type-safe)
+
 ### Markdown-Execute (VS Code Extension)
 
 A VS Code Extension which allows you to execute code from a Markdown file. This is useful for executing code from a README.md file (e.g. installation or setup steps).
