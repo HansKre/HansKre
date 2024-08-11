@@ -4,12 +4,6 @@ And warm ✨ _welcome_ ✨ to my GitHub profile.
 
 ## My pinned repositories
 
-### My About Me Page
-
-You can view the actual site [here](https://priceless-keller-def908.netlify.app/).
-
-[![My About Me Page](https://github-readme-stats.vercel.app/api/pin/?username=HansKre&repo=about-hanskrebs-v3&show_owner=true)](https://github.com/HansKre/about-hanskrebs-v3)
-
 ### github-ui-booster
 
 Boost your GitHub UI. Works with GitHub Enterprise!
