@@ -2,21 +2,19 @@
 
 And warm ✨ _welcome_ ✨ to my GitHub profile.
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=HansKre&theme=buefy&show_icons=true&count_private=true)
-
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=HansKre&layout=compact)
-
-<!-- ![Scores & Badges](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=HansKre&labels=true) -->
-
-<!-- ![Skills Chart Widget](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=HansKre&labels=true) -->
-
-## Noteable Repo's
+## My pinned repositories
 
 ### My About Me Page
 
-This is the repo of my about-me page. It showcases my skills and projects. You can view the actual site [here](https://priceless-keller-def908.netlify.app/).
+You can view the actual site [here](https://priceless-keller-def908.netlify.app/).
 
 [![My About Me Page](https://github-readme-stats.vercel.app/api/pin/?username=HansKre&repo=about-hanskrebs-v3&show_owner=true)](https://github.com/HansKre/about-hanskrebs-v3)
+
+### github-ui-booster
+
+Boost your GitHub UI. Works with GitHub Enterprise!
+
+[![github-ui-booster](https://github-readme-stats.vercel.app/api/pin/?username=HansKre&repo=github-ui-booster&show_owner=true)](https://www.npmjs.com/package/github-ui-booster)
 
 ### ts-type-safe
 
